@@ -12,4 +12,4 @@ Usage is simple, just run "python ./rope.py" and follow instructions.
 -On first run : A folder is created on your Desktop, where you have to manually put all the files you have.
 -With the folder /elegantor full of all your files, now you can elegant it, or delete its content.
 ############################################
-2- // working on it..
+Edit- Tried it on my new computer, and it didn't work. I don't even want to check why, because it looks horrible already.
