@@ -1,6 +1,5 @@
 "# misc"
-<h4>Author : saad.lalaoui.lamdegheri@gmail.com</h4>
---------
+
 <h1>This folder contains misc creations</h1>
 ############################################
 1- rope.py 
